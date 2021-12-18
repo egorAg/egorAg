@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to improve myself in english, and in back-end technoogies ofc 
 - 📫 You can reach me in telegram @Ageev3gor or via Email: ShonS1v4@icloud.com
 
-<h1> MY SKILLS </h1>
+<h2> Skills </h2>
   <h3> Hard skills </h3>
   
    - Node.JS 
@@ -20,7 +20,7 @@
       ![progress-overall-80](https://user-images.githubusercontent.com/48442694/146634908-1c03ebdf-ca7a-4aa4-971b-9ac485a19fcd.png)
 
 
-<h1> MY PROJECTS <h1>
-  <h3> Pet projects </h3>
+<h2> Projects <h2>
+  <h3> Pet </h3>
   
   - [Auto rent REST](https://github.com/ShonS1v4/car-rent-rest-API)
