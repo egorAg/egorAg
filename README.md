@@ -7,14 +7,20 @@
   <h3> Hard skills </h3>
   
    - Node.JS 
-   		- [#######---]
+   		
+      ![progress-overall-70](https://user-images.githubusercontent.com/48442694/146634900-bf79b866-6447-4d05-8087-3a68b23f3b3a.png)
    - NestJs 
-   		- [#########-]
+   		
+      ![progress-overall-90](https://user-images.githubusercontent.com/48442694/146634889-be0eca7d-33d6-49a5-81d9-ffd478c56bd5.png)
    - Mongo Database 
-   		- [alt text](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZsAAAAUCAYAAABbCZBBAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAABm6ADAAQAAAABAAAAFAAAAAAhgb4hAAABxklEQVR4Ae3csU7CQBgA4OuFGFiVuPkgPAExLITFTZ/Azcdw8hHYXNRnYOBlxNG0JAa8S2BgaklsMPQjaUjTv9f7vw5/2rtrCH4ECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAAQKnFih2HbgfDAbPVVVdbbfbeOpOuT4BAgQI/E+Boig2afvZbDZ3qYcfTXuZi8309ia8v82GoV+ump4njkBnBNYvVWdylSiBOoH0QBIWi0UYj8c59CFt87pz8vEixrj+fry8UGiacInpooBi08W7Luc6geVyGSaTyWdZltd1sfl4TFWqp9A0oRJDgAABAnuB0WgU8tDLfr/uPxcbYzR1So4TIECAwIFAGrcJx9QPheaAzw4BAgQItCGg2LShqk0CBAgQOBBQbA447BAgQIBAGwIxz5luo2FtEiBAgMD5CuQp0MfUj9jv97+qwfB8RWRGgAABAn8ukNfa5MWdTRuOaY700+xtFRScpmTiCBAg0F2B/EST19jkRZ27rwg0wth/rmaaFne+pkZ6x0xla3QFQQQIECBwNgL51Vl+I5YfVFJS87NJTCIECBAgQIAAAQIECBAgQIAAAQIECBAgQIAAgQ4I/AIohV7VMypUEwAAAABJRU5ErkJggg==)
+   		
+      ![progress-overall-50](https://user-images.githubusercontent.com/48442694/146634865-75337b29-164f-4e8c-ae38-dc54fb3ff2b1.png)
    - Postgres Database 
-   		- [########--]
+   		
+      ![progress-overall-80](https://user-images.githubusercontent.com/48442694/146634908-1c03ebdf-ca7a-4aa4-971b-9ac485a19fcd.png)
+
 
 <h1> MY PROJECTS <h1>
   <h3> Pet projects </h3>
-  -  REST Api for car cent application
+  - [Auto rent REST](https://github.com/ShonS1v4/car-rent-rest-API)
+  - 
