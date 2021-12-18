@@ -24,4 +24,3 @@
   <h3> Pet projects </h3>
   
   - [Auto rent REST](https://github.com/ShonS1v4/car-rent-rest-API)
-  - 
