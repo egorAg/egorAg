@@ -21,4 +21,6 @@
 <h2> Projects <h2>
   <h3> Pet </h3>
   
-  - [Auto rent REST](https://github.com/ShonS1v4/car-rent-rest-API)
+  - [Auto rent REST](https://github.com/ShonS1v4/car-rent-rest-API) - finished
+  - [Telegram random bot](https://github.com/ShonS1v4/telegram_bot) - in progress
+  - [To-do application bakend](https://github.com/ShonS1v4/to-do-application) - in progress
