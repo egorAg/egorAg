@@ -16,11 +16,3 @@
    - Postgres Database 
    		
       ![progress-overall-80](https://user-images.githubusercontent.com/48442694/146634908-1c03ebdf-ca7a-4aa4-971b-9ac485a19fcd.png)
-
-
-<h2> Projects <h2>
-  <h3> Pet </h3>
-  
-  - [Auto rent REST](https://github.com/ShonS1v4/car-rent-rest-API) - finished
-  - [Telegram random bot](https://github.com/ShonS1v4/telegram_bot) - in progress
-  - [To-do application bakend](https://github.com/ShonS1v4/to-do-application) - in progress
