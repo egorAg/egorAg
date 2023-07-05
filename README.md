@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShonS1v4, js developer from Russia!
+- 👋 Hi, I’m @egorAf, backend developer from Russia!
 - 📫 You can reach me in telegram @Ageev3gor or via Email: ShonS1v4@icloud.com
 
 <h2> Skills </h2>
